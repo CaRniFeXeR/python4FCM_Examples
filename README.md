@@ -7,5 +7,5 @@ A small Repository showing how to use Python for FCM data processing and analysi
 
 pip install .\custom_packages\cytoflow-1.2+43.g63fce934.dirty-cp38-cp38-win_amd64.whl
 pip install 'transformers[torch]'
-
+pip install ipywidgets
 ```
